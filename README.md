@@ -7,9 +7,6 @@ determined as the angle of the servo when the object is detected. The measured d
 its corresponding angle, is sent to Processing program on a PC via UART Communication 
 Protocol. The information is displayed in a similar manner of the PPI radar screen.
 
-
-## proteus
-<img src="Untitled.jpg">
 ## Ruselts
 
 The system is adjusted to display objects within a distance of 40 centimeters 
@@ -20,9 +17,10 @@ scanning process is displayed by a moving green line that represents the servo
 angle. The radar is tested by objects at different angles and distances and the 
 displayed information's have good accuracy.
 
+## proteus
+<img src="Untitled.jpg">
+
 ## Processing screen
 <img src="IMG_2151.JPG">
-
-## Finally 
 
 
