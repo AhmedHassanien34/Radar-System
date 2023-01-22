@@ -118,7 +118,7 @@ void drawText() { // draws the texts on the screen
   text("40cm",width-width*0.0729,height-height*0.0833);
   fill(255,255,10);
   textSize(30);
-  text("Ayad Ahmed Djamel", 10, 50);
+  text("Ahmed Torres", 10, 50);
   text("Angle: " + iAngle +" °", 950, height-height*0.0277);
   if (iDistance<40){
   
