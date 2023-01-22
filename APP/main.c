@@ -27,7 +27,7 @@ void main(void)
 	while(1)
 	{
 		UART_voidSendDecimalNumber(1);
-		/*
+		
 		for(itr=10;itr<170;itr++)
 		{
 			SVM_voidSetAngle2(itr);				// Set Angle
@@ -47,6 +47,6 @@ void main(void)
 			Ultra_voidTriger();		          	// Send the Distance By Uart Protocol
 			USART_voidSend('.');
 		}
-		*/
+		
 	}
 }
