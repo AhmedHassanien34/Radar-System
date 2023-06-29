@@ -1,5 +1,5 @@
 # Radar-System-Project
-In this project, we used Atmega16 in addition to an ultrasonic sensor and a servo motor to 
+In this project, I used Atmega16 in addition to an ultrasonic sensor and a servo motor to 
 make a radar prototype. The ultrasonic sensor is attached to a servo motor which rotates 160 
 degrees. While the servo is rotating, the ultrasonic sensor measures the distance of nearby 
 objects. The measured distances are to be displayed on a screen. The angle of the object is 
